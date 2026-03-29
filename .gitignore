@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+__pycache__/
+
+# Secrets - NEVER commit
+.env
+
+# Build artifacts
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+*.pyc
+test_out.txt
+dummy_statement.pdf

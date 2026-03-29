@@ -1,0 +1,10 @@
+flask
+flask-cors
+PyMuPDF
+pandas
+scipy
+google-generativeai
+gTTS
+pygame
+deep-translator
+pillow
